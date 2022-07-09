@@ -1,6 +1,6 @@
 /*
-MT2021106
-Ribhu Mukherjee
+MT2021039
+DHEER VARYANI
 Client side:
 socket->connect->send/recv->close
 */

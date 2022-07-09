@@ -1,6 +1,6 @@
 /*
-MT2021106
-Ribhu Mukherjee
+MT2021039
+DHEER VARYANI
 Server side: concurrent server using fork()
 socket->bind->listen->accept->recv/send->close
 */
